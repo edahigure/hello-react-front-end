@@ -23,7 +23,8 @@ export default function Greetings() {
 
   for (let i = 0; i < messageList.length; i += 1) {
     myMessages.push(<Greeting
-      id={messageList[i].id}
+      key = {messageList[i].id}
+      id={messageList[i].id.toString()}
       text={messageList[i].text}
     />);
   }
