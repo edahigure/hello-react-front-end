@@ -8,12 +8,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
- npm create vite@latest
-   cd hello-react-front-end
-  npm install
-  
-  npm run dev
-  npm install react-redux
-  npm install @reduxjs/toolkit
-  npm install react-router-dom
+npm create vite@latest
+cd hello-react-front-end
+npm install
+
+npm run dev
+npm install react-redux
+npm install @reduxjs/toolkit
+npm install react-router-dom
+npm install axios
+
+ git remote add origin https://github.com/edahigure/hello-react-front-end.git
 
