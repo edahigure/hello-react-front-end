@@ -14,3 +14,4 @@ Currently, two official plugins are available:
   
   npm run dev
   npm install react-redux
+  npm install @reduxjs/toolkit
