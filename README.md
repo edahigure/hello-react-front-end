@@ -2,9 +2,7 @@
 
 <div align="center">
 
-
-
-  <h1><b>hello-react-front-end</b></h1>
+  <h1><b>Hello-react-front-end</b></h1>
 
 </div>
 
@@ -65,7 +63,6 @@ This is a good template for applications that uses both rails and react redux th
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -84,8 +81,24 @@ To install the necessary dependencies, you should run:
 npm install
 ```
 
+## Creation
 
+These were useful commands to create the app
 
+```
+npm create vite@latest
+cd hello-react-front-end
+npm install
+
+npm run dev
+npm install react-redux
+npm install @reduxjs/toolkit
+npm install react-router-dom
+npm install axios
+
+ git remote add origin https://github.com/edahigure/hello-react-front-end.git
+
+ ```
 
 ## Usage 
 
@@ -148,15 +161,5 @@ This project is [MIT](./LICENSE) licensed.
 
 
 
-npm create vite@latest
-cd hello-react-front-end
-npm install
 
-npm run dev
-npm install react-redux
-npm install @reduxjs/toolkit
-npm install react-router-dom
-npm install axios
-
- git remote add origin https://github.com/edahigure/hello-react-front-end.git
 
