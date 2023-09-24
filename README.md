@@ -4,7 +4,7 @@
 
 
 
-  <h1><b>My new rails app</b></h1>
+  <h1><b>hello-react-front-end</b></h1>
 
 </div>
 
@@ -36,7 +36,7 @@ React, Redux
 
 ## Link to api repository
 
-[link](https://github.com/edahigure/hello-rails-back-end)
+https://github.com/edahigure/hello-rails-back-end
 
 ### Tech Stack <a name="tech-stack"></a>
 
